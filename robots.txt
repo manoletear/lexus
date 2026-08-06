@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lexus-nx300.netlify.app/sitemap.xml
